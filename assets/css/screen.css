@@ -198,7 +198,7 @@ body {
 }
 
 .site-home-header .site-title {
-    font-size: 5.5rem;
+    font-size: 3.5rem;
     text-align: center;
 }
 
@@ -937,7 +937,7 @@ make sure this only happens on large viewports / desktop-ish devices.
 .post-full-header {
     position: relative;
     margin: 0 auto;
-    padding: 70px 170px 50px;
+    padding: 50px 170px 20px;
     border-top-left-radius: 3px;
     border-top-right-radius: 3px;
 }
@@ -961,7 +961,7 @@ make sure this only happens on large viewports / desktop-ish devices.
 
 @media (max-width: 1170px) {
     .post-full-header {
-        padding: 60px 11vw 50px;
+        padding: 60px 11vw 20px;
     }
 }
 
@@ -974,7 +974,7 @@ make sure this only happens on large viewports / desktop-ish devices.
 
 @media (max-width: 500px) {
     .post-full-header {
-        padding: 20px 0 35px;
+        padding: 20px 0 20px;
     }
 }
 
